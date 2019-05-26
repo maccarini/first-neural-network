@@ -6,7 +6,6 @@ Created on Fri May 24 15:07:32 2019
 """
 # Importing libraries
 import numpy as np
-import pandas as pd
 
  # Importing dataset and setting X and y variables
 X_original = np.array([[3.,4.],[2.,7.],[8.,4.], [8.,8.]]) # first column shows study hours, second shows sleep hours
